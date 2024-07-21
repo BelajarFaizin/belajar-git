@@ -8,6 +8,6 @@ const multiply number = (a, b) => a * b;
 console.log(multiply(2,2));
 
 const divide = (a, b) => a / b;
-console.log(divide(3/3));
+console.log(divide(3, 3));
 
-console.log(add(5, 5))
+console.log(add())
